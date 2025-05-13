@@ -46,6 +46,18 @@ my_ai.think()
 my_ai.communicate()
 my_ai.learn()
 ```
+
+```
+Output:
+
+>>> Athena
+>>> 5
+>>> Virtual Assistant
+>>> 9.8
+>>> The A`perform_task()` online.
+>>> The AI is communicating digitally with its human.
+>>> The AI is learning and improving its capabilities.
+```
 ---
 ### R(un)
 
