@@ -47,9 +47,8 @@ my_ai.communicate()
 my_ai.learn()
 ```
 
+#### Output:
 ```
-Output:
-
 >>> Athena
 >>> 5
 >>> Virtual Assistant
@@ -65,13 +64,28 @@ Copy and paste the previous code snippet into in a file named `ai-primm.py`.
 
 Run the script.  Did your predictions match the output?  Why or why not?
 
+#### Output:
+```
+>>> Athena
+>>> 5
+>>> Virtual Assistant
+>>> 9.8
+>>> The A`perform_task()` online.
+>>> The AI is communicating digitally with its human.
+>>> The AI is learning and improving its capabilities.
+```
+
+My predictions did match, the output was exactly the same
+
 ---
 
 ### I(nvestigate)
 
 Answer these questions about the code snippet:
 
-1. What is the relationship between the Human and AI classes?
+1. What is the relationship between the Human and AI classes?<br>
+A parent, child relationship (it's very wholesome)
+
 2. How does the `__init__()` method in the AI class use the `super()` function?
 3. What is the purpose of the `think()` and `communicate()` methods in both the Human and AI classes?
 4. How does the output of the `think()` and `communicate()` methods differ between the Human and AI instances?
